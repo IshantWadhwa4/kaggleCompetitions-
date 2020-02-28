@@ -1,2 +1,2 @@
-# kaggleCompetitions-
+# kaggleCompetitions
 kaggle competitions code.
